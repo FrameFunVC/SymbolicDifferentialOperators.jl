@@ -1,0 +1,4 @@
+name = "SymbolicDifferentialOperators"
+uuid = "9bed4a80-4cf1-49c9-8068-ed85240b7fe1"
+authors = ["vincentcp"]
+version = "0.1.0"
